@@ -9,7 +9,9 @@ API to record and retrieve real-time statistics abot transactions in a given tim
 # How to run
 
 Install Maven locally
-Run: mvn spring-boot:run
+
+1. Run: mvn spring-boot:run
+
 Alternatively, you can use the included Maven wrapper and run ./mvnw spring-boot:run instead.
 
 # Adding transactions
